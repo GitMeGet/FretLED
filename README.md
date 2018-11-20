@@ -16,12 +16,15 @@ Learn guitar soloing easily!
 4) Android application
 - upload solos to LED controller
 - control solo (start/stop/pause)
-- output note sound
 - display tabs (probably just ASCII notation)
+- display chords that tabs are derived from
+- output note sound [nice to have]
 - sound activated looper [nice to have]
 - audio to tab w/ timing notation [nice to have]
+-- can start out with single note decoding to advance solo tab sheet
 
 5) tabs/chords database
 - API so don't have to scrape, else initially can copy paste ASCII notation from other sites
 - concept of time [nice to have]
-- open source?
+-- extend notes in ASCII notation
+-- find more suitable format
